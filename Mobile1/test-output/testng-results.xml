@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-20T17:17:54 IST" name="Suite" finished-at="2022-09-20T17:18:44 IST" duration-ms="49548">
+    <groups>
+    </groups>
+    <test started-at="2022-09-20T17:17:54 IST" name="Retest" finished-at="2022-09-20T17:18:44 IST" duration-ms="49548">
+      <class name="mobileworld1.Signin">
+        <test-method signature="register()[pri:2, instance:mobileworld1.Signin@32ee6fee]" started-at="2022-09-20T17:18:38 IST" name="register" finished-at="2022-09-20T17:18:44 IST" duration-ms="5147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- mobileworld1.Signin -->
+      <class name="mobileworld1.mobileworld">
+        <test-method signature="test()[pri:3, instance:mobileworld1.mobileworld@5562c41e]" started-at="2022-09-20T17:17:59 IST" name="test" finished-at="2022-09-20T17:18:38 IST" duration-ms="39664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- mobileworld1.mobileworld -->
+      <class name="mobileworld1.Signup">
+        <test-method signature="test()[pri:1, instance:mobileworld1.Signup@4d5b6aac]" started-at="2022-09-20T17:17:54 IST" name="test" finished-at="2022-09-20T17:17:59 IST" duration-ms="4702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- mobileworld1.Signup -->
+    </test> <!-- Retest -->
+  </suite> <!-- Suite -->
+</testng-results>
